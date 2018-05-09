@@ -1,6 +1,6 @@
 # Buildtask for PHP Excel extension
 
-[![Build Status](https://travis-ci.org/marcelosousaalmeida/php-excel-builddeb.svg?branch=master)](https://travis-ci.org/marcelosousaalmeida/php-excel-builddeb)
+[![Build Status](https://travis-ci.org/marceloalmeida/php-excel-builddeb.svg?branch=master)](https://travis-ci.org/marceloalmeida/php-excel-builddeb)
 
 Task to build Debian package of PHP Excel extension.
 
@@ -8,7 +8,7 @@ Task to build Debian package of PHP Excel extension.
 ## Dependencies
 
 * [libxl 3.8.2](http://www.libxl.com/download/libxl-lin-3.8.2.tar.gz)
-  * [libxl_3.8.2-1_amd64.deb](https://github.com/marcelosousaalmeida/libxl-builddeb/releases/download/v0.0.1/libxl_3.8.2-1_amd64.deb)
+  * [libxl_3.8.2-1_amd64.deb](https://github.com/marceloalmeida/libxl-builddeb/releases/download/v0.0.1/libxl_3.8.2-1_amd64.deb)
 
 
 ## Usage
